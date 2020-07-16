@@ -74,9 +74,10 @@ Please make sure to update tests as appropriate.
 
 ## Authors 
 
-- Fabiana Rossi
-- Matteo Nardelli
-- Valeria Cardellini
+- [Fabiana Rossi](http://www.ce.uniroma2.it/~fabiana/)
+- [Matteo Nardelli](http://www.ce.uniroma2.it/~nardelli/)
+- [Valeria Cardellini](http://www.ce.uniroma2.it/~valeria/)
+- [Francesco Lo Presti](http://www.ce.uniroma2.it/~lopresti/)
 
 ## License
 [GNU v3](LICENSE.md)
